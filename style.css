@@ -1,0 +1,9 @@
+* {
+    font-family: sans-serif;
+}
+ul li {
+    list-style-type: circle;
+}
+img {
+    padding-left: 25%;
+}
